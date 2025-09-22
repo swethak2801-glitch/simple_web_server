@@ -1,6 +1,6 @@
 # EX01 Developing a Simple Webserver
 
-# Date:20.9.2025
+# Date:22.9.2025
 # AIM:
 To develop a simple webserver to serve html pages and display the configuration details of laptop.
 
@@ -26,9 +26,11 @@ Testing the webserver.
 <head>
 <title>TCP/IP Model</title>
 </head>
-<body align="center">
+<body bgcolor="pink">
 
 <pre>
+<hr>
+<h1>
 1. *Application Layer*
 
    * HTTP (HyperText Transfer Protocol)
@@ -55,15 +57,18 @@ Testing the webserver.
    * PPP (Point-to-Point Protocol)
    </pre>
 </body>
+</h1>
 
 
 
 </html>
 ```
 # OUTPUT:
-![alt text](<Screenshot 2025-09-20 082637.png>)
+![alt text](<Screenshot 2025-09-22 105817.png>)
+![alt text](<Screenshot 2025-09-22 105844.png>)
 
-![alt text](<Screenshot 2025-09-20 082929.png>)
+![alt text](<Screenshot 2025-09-22 110010.png>)
+![alt text](<Screenshot 2025-09-22 110015.png>)
 
 # RESULT:
 The program for implementing simple webserver is executed successfully.

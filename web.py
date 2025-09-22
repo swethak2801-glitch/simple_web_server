@@ -4,10 +4,11 @@ content = '''<html>
 <head>
 <title>TCP/IP Model</title>
 </head>
-<body align="center">
+<body bgcolor="pink"> 
 
 <pre>
-1. *Application Layer*
+<hr>
+<h1>1. *Application Layer*
 
    * HTTP (HyperText Transfer Protocol)
    * FTP (File Transfer Protocol)
@@ -31,7 +32,9 @@ content = '''<html>
    * Ethernet
    * Wi-Fi
    * PPP (Point-to-Point Protocol)
-   </pre>
+   </h1>
+<hr>
+   </pre> 
 </body>
 
 
