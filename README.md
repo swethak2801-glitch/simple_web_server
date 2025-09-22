@@ -64,11 +64,12 @@ Testing the webserver.
 </html>
 ```
 # OUTPUT:
-![alt text](<Screenshot 2025-09-22 105817.png>)
 ![alt text](<Screenshot 2025-09-22 105844.png>)
 
 ![alt text](<Screenshot 2025-09-22 110010.png>)
 ![alt text](<Screenshot 2025-09-22 110015.png>)
+<img width="1263" height="200" alt="Screenshot 2025-09-22 112530" src="https://github.com/user-attachments/assets/8942b25a-d816-4d16-9083-dbd1c599adf6" />
+
 
 # RESULT:
 The program for implementing simple webserver is executed successfully.
